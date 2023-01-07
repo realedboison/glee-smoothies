@@ -1,0 +1,14 @@
+# ignore node modules
+/node_modules
+*.txt
+
+# production
+# ignore these folders
+/build
+/dist
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+gbash*
